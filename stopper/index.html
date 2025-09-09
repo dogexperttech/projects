@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="et">
+<head>
+  <meta charset="UTF-8" />
+  <title>Stopper</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: black;
+      color: white;
+      font-family: monospace;
+      font-size: 60px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <div id="timer">00:00:00</div>
+
+  <script>
+    let startTime = Date.now();
+    function updateTimer() {
+      const now = Date.now();
+      const elapsed = new Date(now - startTime);
+      const hours = String(elapsed.getUTCHours()).padStart(2, '0');
+      const minutes = String(elapsed.getUTCMinutes()).padStart(2, '0');
+      const seconds = String(elapsed.getUTCSeconds()).padStart(2, '0');
+      document.getElementById('timer').textContent = `${hours}:${minutes}:${seconds}`;
+    }
+    setInterval(updateTimer, 1000);
+  </script>
+</body>
+</html>
