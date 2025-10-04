@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="kardin_bg.swf" swf="kardin.swf" important="important_candle.xml">
+	<text>Küünal aknalaual süütas kardina</text>
+
+	<answer correct="no" swf="kardin_vesi.swf">
+		<text>Torman kööki vett tooma</text>
+		<comment><p>Süttinud kardinad põlevad väga kiiresti ning võivad süüdata ka muid korteris olevaid esemeid. Näiteks põrandapesuämbri täitmiseks köögikraani all kulub 30-50 sekundit. Selle ajaga on tulekahju juba oluliselt arenenud.</p></comment>
+	</answer>
+
+	<answer correct="yes" swf="kardin_kustuti.swf">
+		<text>Kasutan tulekustutit</text>
+		<comment>
+			<p>Kui kustuti on käepärast, siis kasuta seda kindlasti. Probleem võib tekkida siis, kui kustuti toomiseks kulub aega. Tuli areneb rippuvates kardinates kiiresti ning kustuti toomiseks kulunud aja jooksul oleksid teisiti tegutsedes tõenäoliselt juba jõudnud tulekahju kustutada.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="kardin_aken.swf">
+		<text>Avan rõduukse ja lükkan põleva kardina välja</text>
+		<comment>
+			<p>Rõduukse avamisel voolab tuppa värsket hapnikku ning tuli saab uut hoogu. Läbi lahtise ukse võivad leegid mööda maja välisseina ka näiteks ülemise korruse lahtise akna või rõduuksega korterisse levida. Rõduukse või akna võib avada alles siis, kui tulekahju on kustutatud.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="kardin_kustutustekk.swf">
+		<text>Tõmban põlevad kardinad maha ja lämmatan tule tulekustutusvaibaga. Seejärel helistan 112</text>
+		<comment>
+			<p>Kardinad põlevad väga kiiresti ning seepärast on vaja tegutseda koheselt. Rippuvaid kardinaid suure koguse veega kustutada on keeruline. Seepärast on mõistlik need maha tõmmata ja leek lämmatada kas kustutusvaiba, põrandariide või mõne muu paksema kangaga. Seejärel teavitan juhtunust häirekeskust (112), kes otsustab, kas tuletõrjujad peavad igaks juhuks kohale sõitma või mitte.</p>
+		</comment>
+	</answer>
+</question>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="trepikoda_bg.swf"  swf="trepikoda.swf" important="important_smoke.xml">
+	<text>Paneelmaja trepikojas on hingemattev ja tihe suits</text>
+
+		<answer correct="no" swf="trepikoda_v2ljun.swf">
+			<text>Hingan sügavalt sisse ja katsun hinge kinni hoides majast väljuda</text>
+			<comment>
+				<p><b>Hinge kinni hoides ja tihedas suitsus teed nägemata on võimatu mitu korrust allapoole laskuda. </b>Põleng võib olla ka koridoris, sa ei pääse sellest mööda ja pead tagasi minema. Tuletõrjujatel on teada juhtumeid, kus läbi suitsuse koridori väljapääsu otsinud inimesed on nõrkenud kas otse välisukse lävel või veidi enne seda.</p>
+			</comment>
+		</answer>
+
+		<answer correct="no" swf="trepikoda_lift.swf">
+			<text>Sõidan liftiga alla ja väljun  majast</text>
+			<comment>
+				<p><b>Majas, kus on tulekahju, ei tohi lifti kunagi kasutada. </b>Tulekahju ajal on suur tõenäosus elektrikatkestuseks. Kujuta end ette korruste vahel kinni kiilunud liftis, samal ajal kui liftišahtis või koridoris on tulekahju: suits ja kuumus tõusevad mööda liftišahti takistamatult üles ja sul puudub võimalus neid vältida. </p>
+			</comment>
+		</answer>
+
+		<answer correct="no" swf="trepikoda_otsin.swf">
+			<text>Hoolimata tihedast suitsust teen esmalt kindlaks tulekahju põhjuse</text>
+			<comment>
+				<p><b>Tihedas suitsus ilma kaitsevahenditeta tulekahju põhjust otsida on ohtlik. </b>Jäta kahjutule põhjuse otsimine tuletõrjujate tööks ning ära sea ennast asjatult ohtu võimaliku tossupommi või näiteks mürgist suitsu eraldava põleva plastikprügi asukoha kindlakstegemisega.</p>
+			</comment>
+		</answer>
+
+		<answer correct="yes" swf="trepikoda_sulen.swf">
+			<text>Sulen oma ukse võimalikult õhukindlalt. Seejärel helistan 112</text>
+			<comment>
+				<p><b>Paneel- või telliskivimajas on tule levik aeglane ning peamine oht on sissehingatav suits. </b>Isegi kui põlemine toimub otse sinu ukse taga, peab tihendatud puituks tulele ja suitsule vastu umbes 15 minutit; turvauuks vastavalt oma kvaliteedile pool tundi kuni tund. Kui suled ukse korralikult ja tihendad uksepraod näiteks niiskete riietega, siis ei juhtu sinu enda ega korteri sisustusega koridori põlengu puhul esialgu midagi. Kui suits tungib koridorist siiski korterisse, põgene rõdule või selle puudumisel ava ruumide tuulutamiseks aknad. Anna endast märku tuletõrjujatele, kes sind vajadusel alla aitavad.</p>
+			</comment>
+		</answer>
+</question>

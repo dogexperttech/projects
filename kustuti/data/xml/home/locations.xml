@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<locations>
+	<location id="kitchen" questions="3">
+		<title>Köök</title>
+	</location>
+	<location id="livingroom" questions="6">
+		<title>Tuba</title>
+	</location>
+	<location id="lobby" questions="1">
+		<title>Trepikoda</title>
+	</location>
+	<location id="attic" questions="3">
+		<title>Pööning</title>
+	</location>
+</locations>

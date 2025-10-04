@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="uks_bg.swf" swf="uks.swf" important="important.xml">
+	<text>Toa uks on kuum ja selle vahelt immitseb musta suitsu</text>
+
+	<answer correct="no" swf="uks_sisenen.swf">
+		<text>Sisenen ja püüan kummargil liikudes leida tulekahju põhjuse, et see kustutada</text>
+		<comment>
+			<p><b>Kui ukse vahelt tuleb tumedat suitsu ja uks ise (või uksekäepide) on kuumad, siis ust avada ei tohi – tulekahju ruumis on tõenäoliselt liiga võimas ja omade jõududega seda kustutada ei õnnestu. </b>Iga hinna eest ja ohumärke eirates kustutama tormamise hinnaks võib olla enda või teiste elu. Tuletõrjujate reegel on esmalt inimelude ja alles seejärel vara päästmine. Toimi samuti - ennekõike säästa enda elu ja päästa teiste omasid.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="uks_112.swf">
+		<text>Helistan 112</text>
+		<comment>
+			<p><b>Kui ukse vahelt tuleb tumedat suitsu ja uks (või käepide) on kuum, siis ust avada ei tohi – tulekahju ruumis on juba liiga võimas ning lihtsast tulekustutist pole enam abi.</b> Ukse avamisel saab kahjutuli värske õhu juurdevoolust hoogu ning levib kiiresti teistesse ruumidesse.</p><p>Teades, et majas on inimesi, teavita neid tulekahjust ning vajadusel (väiksed lapsed) aita evakueeruda. Kui läbi maja pole enam võimalik lahkuda, varju tuppa või rõdule ja otsi võimalusi maapinnale laskumiseks. Samal ajal helista 112 või telefoni puudumisel hüüa kõva häälega aknal appi.</p>
+		</comment>
+	</answer>
+</question>

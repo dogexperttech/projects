@@ -1,0 +1,23 @@
+a {
+	font-weight: bold;
+	color: #FF0000;	
+}
+
+p {
+	font-family: sans-serif;
+	display: block; color: #333333;
+}
+
+.wrongAnswer {
+	font-size: 12px;
+	font-weight: bold;
+	color: #AD0000;
+	line-height: 1.5;
+}
+
+.rightAnswer {
+	font-size: 12px;
+	font-weight: bold;
+	color: #AD0000;
+	line-height: 1.5;
+}

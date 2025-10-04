@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="diivan_bg.swf" swf="diivan.swf" important="important_couch.xml">
+	<text>Diivan põleb, ajades paksu musta suitsu</text>
+
+	<answer correct="yes" swf="diivan_112.swf">
+		<text>Kui ruumis ei ole inimesi, sulen kiiresti ukse ja helistan 112</text>
+		<comment>
+			<p>Kui põlev diivan, tugitool või mõni muu ese ajab põledes välja paksu musta suitsu, siis on tulekahju arenenud staadiumini, kus parimaks kustutusmeetodiks on lasta tulel endal põlemiseks vajalik õhk “ära süüa” ja uut õhku ukse või akna avamisega mitte juurde anda. Loomulikult tuleb juhtunust teatada kõigile korteris olevatele inimestele.</p><p>Vaata lisaks <moreinfo id="fire">tulekahju arengust.</moreinfo> </p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="diivan_aken.swf">
+		<text>Avan akna, et mööblit ja tapeeti rikkuv suits akna kaudu väljuks</text>
+		<comment>
+			<p>Akna avamisel voolab tuppa värsket hapnikku ning tuli saab uut hoogu. Läbi lahtise akna võivad leegid mööda maja välisseina ka näiteks ülemise korruse lahtise akna või rõduuksega korterisse levida.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="diivan_kustutustekk.swf">
+		<text>Lämmatan tule paksema riideesemega</text>
+		<comment>
+			<p>Sellise tegutsemise eelduseks on, et põleva eseme saab täielikult tekiga katta. Diivani puhul pole see tavaliselt võimalik. Kõige ohutumaks ja tõhusamaks kustutusvahendiks on tulekustuti, kuid ka selle kasutamisel peab olema kindel iseenda ohutuses. Kui diivan põleb juba paksu musta tossu välja ajades, siis on tõenäoliselt temperatuur ruumis kõrge ning suitsupiir laskunud liiga madalale, et inimene ise suitsu sees olemata seal liikuda saaks. Seega pole omal jõul kustutamine enam edukas ning võib osutuda ohtlikuks.</p><p>Vaata lisaks <moreinfo id="fire">tulekahju arengust.</moreinfo> </p>
+		</comment>
+	</answer>
+</question>

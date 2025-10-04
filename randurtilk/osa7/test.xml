@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Question No 1 -->
+<QUESTION>Kui kaugele Läänemerre suunatakse puhastuse läbinud reovesi Paljassaare reoveepuhastusjaamast?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>10 kilomeetri kaugusele. </VAR1>
+	<VAR2>500 meetri kaugusele. </VAR2>
+	<VAR3>Kolme kilomeetri kaugusele. </VAR3>
+	<ANSWER1>Vale! Piisab ka vähemast.</ANSWER1>
+	<ANSWER2>Vale! 500 meetrit on liiga vähe.</ANSWER2>
+	<ANSWER3>Õige! Just kolme kilomeetri kaugusele juhitakse puhastatud reovesi.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 2 -->
+<QUESTION>Millisest kahest ilmakaarest ümbritseb Läänemeri Eestit? 
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Põhjast ja läänest. </VAR1>
+	<VAR2>Idast ja lõunast. </VAR2>
+	<VAR3>Põhjast ja lõunast. </VAR3>
+	<ANSWER1>Õige! Põhjast  ja läänest ümbritseb Eestit Läänemeri, idas on Venemaa ning lõunas Läti.</ANSWER1>
+	<ANSWER2>Vale! Neis ilmakaartes asuvad Venemaa ja Läti.</ANSWER2>
+	<ANSWER3>Vale! Üks ilmakaartest on õige, kuid teine mitte.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 3 -->
+<QUESTION>Milline on Eestit lääne poolt ümbritseva Liivi lahe teine nimi on?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Soome laht. </VAR1>
+	<VAR2>Riia laht. </VAR2>
+	<VAR3>Botnia laht. </VAR3>
+	<ANSWER1>Vale! Soome laht on Läänemere laht, mis asub Eestist põhja pool.</ANSWER1>
+	<ANSWER2>Õige! Liivi lahte nimetatakse ka Riia laheks.</ANSWER2>
+	<ANSWER3>Vale! Botnia laht asub Läänemere kõige põhjapoolsemas otsas ning seda kutsutakse ka Põhja laheks.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 4 -->
+<QUESTION>Kuidas on Läänemeri ühenduses Atlandi ookeaniga?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Taani väinade kaudu. </VAR1>
+	<VAR2>Botnia lahe kaudu. </VAR2>
+	<VAR3>Läänemerre suubuvate jõgede kaudu. </VAR3>
+	<ANSWER1>Õige! Läänemeri on Atlandi ookeaniga ühenduses viie Taani väina kaudu.</ANSWER1>
+	<ANSWER2>Vale! Botnia lahest ei pääse Atlandi ookeani.</ANSWER2>
+	<ANSWER3>Vale! Jõed ei ühenda Läänemerd Atlandi ookeaniga.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 5 -->
+<QUESTION>Mitu riiki asub Läänemere kaldal?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Seitse. </VAR1>
+	<VAR2>Viis. </VAR2>
+	<VAR3>Üheksa. </VAR3>
+	<ANSWER1>Vale! Neid on veidi rohkem.</ANSWER1>
+	<ANSWER2>Vale! Neid on veidi rohkem.</ANSWER2>
+	<ANSWER3>Õige! Läänemere kaldal asub üheksa riiki.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 6 -->
+<QUESTION>Miks nimetatakse Läänemerd riimveekoguks? 
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Tema suure soolsuse tõttu. </VAR1>
+	<VAR2>Läänemeres seguneb soolane ookeani vesi ja mage jõevesi, mistõttu tegu ei ole päris soolase ega ka päris mageda veekoguga. </VAR2>
+	<VAR3>Sest Läänemeri on kodu väga paljudele ookeani ja magevee kaladele. </VAR3>
+	<ANSWER1>Vale! Läänemeri ei ole kõrge soolsusega meri.</ANSWER1>
+	<ANSWER2>Õige!</ANSWER2>
+	<ANSWER3>Vale! Läänemeres elavad nii ookeani- kui ka jõekalad, kuid seepärast ei nimetata seda riimveekoguks.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 7 -->
+<QUESTION>Kui suur on Läänemere pindala?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>266 000 km2 </VAR1>
+	<VAR2>366 000 km2 </VAR2>
+	<VAR3>166 000 km2 </VAR3>
+	<ANSWER1>Vale! Läänemere pindala on veidi suurem.</ANSWER1>
+	<ANSWER2>Õige!</ANSWER2>
+	<ANSWER3>Vale! Läänemere pindala on palju suurem.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 8 -->
+<QUESTION>Milline on Läänemere keskmine sügavus? 
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Kümme meetrit. </VAR1>
+	<VAR2>459 meetrit. </VAR2>
+	<VAR3>55 meetrit. </VAR3>
+	<ANSWER1>Vale! Läänemeri on sügavam.</ANSWER1>
+	<ANSWER2>Vale! See on Läänemere kõige sügavam koht.</ANSWER2>
+	<ANSWER3>Õige!</ANSWER3>
+</QUESTION>
+
+<!-- Question No 9 -->
+<QUESTION>Miks ei saa mõned ookeanikalad Läänemeres järglasi? 
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Sest Läänemeri on nende jaoks liiga külm. </VAR1>
+	<VAR2>Sest Läänemeri on nende jaoks liiga mageda veega. </VAR2>
+	<VAR3>Sest neil ei ole kudemiskohti. </VAR3>
+	<ANSWER1>Vale! Läänemeri ei ole ookeanikaladele sugugi külm.</ANSWER1>
+	<ANSWER2>Õige! Ookeanikalad võivad seal küll elada, kuid madala soolsuse tõttu ei saa nad järglasi.</ANSWER2>
+	<ANSWER3>Vale! Läänemeres leidub kaladele küllalt kudemiskohti. Põhjus on muus.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 10 -->
+<QUESTION>Kuidas mõjutab Läänemeri lähipiirkonna kliimat?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Suvel muudab Läänemeri lähialade kliima külmemaks, talvel pehmemaks. </VAR1>
+	<VAR2>Talvel muudab Läänemeri lähialade kliima külmemaks, suvel pehmemaks. </VAR2>
+	<VAR3>Läänemere tõttu on lähipiirkonna kliima aastaringselt soe ja niiske. </VAR3>
+	<ANSWER1>Õige!</ANSWER1>
+	<ANSWER2>Vale! Läänemere mõju on teistsugune.</ANSWER2>
+	<ANSWER3>Vale! Läänemere piirkonna kliima ei ole aastaringselt soe ega niiske.</ANSWER3>
+</QUESTION>

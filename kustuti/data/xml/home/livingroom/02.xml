@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="kuusk_bg.swf" swf="kuusk.swf" important="important.xml">
+	<text>Säraküünal süütas jõulukuuse</text>
+
+	<answer correct="no" swf="kuusk_r6du.swf">
+		<text>Viskan kuuse rõdult alla</text>
+		<comment>
+			<p>Süttinud kuiva kuuske on võimatu põletushaavu saamata rõdule (akna või ukseni) toimetada. Põlevat kuuske mööda tuba lohistades süütad kindlasti midagi veel. Kui siiski õnnestub poolkõrbenuna kuusega rõduni jõuda ning see üle ääre visata, on süttimisohus alumiste naaberkorterite rõdud.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="kuusk_kustutustekk.swf">
+		<text>Tõmban kuuse maha ja kustutan tulekustutusvaibaga</text>
+		<comment>
+			<p>Püsti seisval kuival kuusel jookseb tuli mõne sekundiga latva ja kustutamine on siis kuumuse ja leekide tõttu juba raske. Kui oled kuuse maha tõmmanud, on seda kergem kustutada tulekustutusvaiba või näiteks põrandariietega.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="kuusk_vesi.swf">
+		<text>Nihutan tuleohtlikud esemed kuusest eemale ja lähen vett tooma</text>
+		<comment>
+			<p>Vee toomine võtab aega (katseta, kaua kulub põrandapesuämbri täitmiseks köögikraani all). Süttinud kuusele vee viskamine pole ka kõige tõhusam kustutusvahend - tavaliselt on kuusk selleks liiga suur.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="kuusk_pulberkustuti.swf">
+		<text>Tõmban kuuse maha ja kustutan tulekustutiga</text>
+		<comment>
+			<p>Püsti seisval kuival kuusel jookseb tuli mõne sekundiga latva ja kustutamine on siis kuumuse ja leekide tõttu juba raske. Kui oled kuuse maha tõmmanud, on seda kergem kustutada. Alati peavad ruumist lahkuma need inimesed, kes ise ei kustuta.</p>
+		</comment>
+	</answer>
+</question>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="pooning_bg.swf" swf="pooning_tuli.swf" important="important.xml">
+	<text>Pööning on tules, kuulda on praginat ja eterniidi paukumist</text>
+
+	<answer correct="no" swf="pooning_tuli_kustutan.swf">
+		<text>Kustutan ise</text>
+		<comment>
+			<p>Kui pööning juba praksub, riskid seda ise kustutada üritades nii iseenda kui ka majasviibijate eluga. Enda eluga, sest käsikustutiga ei tee suure leegi vastu midagi - saad vaid põletada. (Pööningu põlengul tõuseb temperatuur kiiresti väga kõrgele.) Teiste eludega, sest ülejäänud majasviibijad ei pruugi juhtunust midagi teada või vajavad abi majast välja saamiseks.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="pooning_tuli_112.swf">
+		<text>Kutsun abi</text>
+		<comment>
+			<p>Kui pööning juba praksub, ei ole käsikustutiga midagi peale hakata. Teavita teisi majas viibijaid ohust, juhata nad majast välja ning helista 112. Kui tubades suitsu ei ole, siis võta kaasa dokumendid ja väärtuslikumad esemed. Majast tuleb lahkuda otsekohe, kui suits tungib või on tunginud tubadesse. Lülita välja eleker ja gaas, jää ootama tuletõrjujate tulekut ning anna neile asjakohast <moreinfo id="infoneeded">infot</moreinfo>.</p>
+		</comment>
+	</answer>
+</question>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="gaasil6hn_bg.swf" swf="gaasil6hn.swf" important="important_gas.xml">
+	<text>Köögis on tunda gaasilõhna</text>
+	
+	<answer correct="no" swf="gaasil6hn_lyliti.swf">
+		<text>Olukorra selgitamiseks lülitan sisse valguse.</text>
+		<comment>
+			<p><b>Gaasilõhnaga ruumides ei tohi kasutada elektriseadmeid ega lahtist tuld!</b></p><p>Elektrilüliti kasutamisel võib tekkida säde ning tuulutamata ruumides on gaasi konsentratsioon piisav plahvatuseks.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="gaasil6hn_suleaken.swf">
+		<text>Sulen tihedalt uksed ja aknad, väljun</text>
+		<comment>
+			<p>Kuna gaasileke jäi sulgemata võib gaas pragude kaudu levida kõrvalruumidesse ning plahvatuse oht tekib ka seal.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="gaasil6hn_avaaken.swf">
+		<text>Avan uksed ja aknad ning ei puuduta ühtegi elektrilülitit. Kui ei leia lekke põhjust, väljun 112 helistamiseks.</text>
+		<comment>
+			<p>Gaasi keskkonnas ei või kasutada <b>ühtegi </b>elektrilist vahendit. Ka telefoni kasutamisel võib tekkida gaasi süütav säde. <b>Kui oled suitsumees, ära unusta gaasilõhna tundes sigaretti kustutamast!</b></p>
+		</comment>
+	</answer>
+	
+</question>

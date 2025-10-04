@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Question No 1 -->
+<QUESTION>Kuidas hoiduda ummistustest?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Lasen WC-potti või kraanikaussi pandud prügile alati ohtralt vett peale. </VAR1>
+	<VAR2>Suurema prügi viskan WC-potti ja lasen mitu korda vett peale. </VAR2>
+	<VAR3>Prügi viskan alati prügikasti. </VAR3>
+	<ANSWER1>Vale! Vee pealelaskmine ei lagunda prügi, see liigub vaid torustikus edasi ning varem või hiljem tekib ikkagi ummistus.</ANSWER1>
+	<ANSWER2>Vale! Ka WC-potti visatud prügi jõuab lõpuks kanalitorudesse. Mida suurem praht, seda raskem ummistus.</ANSWER2>
+	<ANSWER3>Õige! Kanalisatsioon ei ole prügikast.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 2 -->
+<QUESTION>Kui pikk on Tallinna linna kanalisatsioonitorustik?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>250 kilomeetrit. </VAR1>
+	<VAR2>Üle tuhande kilomeetri. </VAR2>
+	<VAR3>2 000 kilomeetrit. </VAR3>
+	<ANSWER1>Vale! Seda on liiga vähe, sellest piisaks vaid Tartu linna kanalisatsioonivee kokkukogumiseks.</ANSWER1>
+	<ANSWER2>Õige! Kanalisatsioonitorusid on Tallinnas rohkem kui veetorusid, kuna lisaks reoveetorustikule kuulub selle alla ka sadeveetorustik, mille kaudu kogutakse kokku vihmavesi.</ANSWER2>
+	<ANSWER3>Vale! Nii pika torustiku abil saaks kokku koguda Tallinnast kaks korda suurema linna reoveed.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 3 -->
+<QUESTION>Kuhu visati vanasti solk?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>WC-potist alla. </VAR1>
+	<VAR2>Aknast või uksest välja otse tänavale. </VAR2>
+	<VAR3>Solgivedajad korjasid kokku. </VAR3>
+	<ANSWER1>Vale! Sel ajal ei olnud tänapäevaseid tualette.</ANSWER1>
+	<ANSWER2>Õige! Näiteks keskajal olid linnatänavate ääres rennid, kuhu solk visati. Samas on näiteks Indias veel tänapäevalgi taolised solgirennid kasutusel ning vesitualette on väga vähe.</ANSWER2>
+	<ANSWER3>Vale! Vanasti olid küll veevedajad, kes linnarahvale puhast vett viisid, kuid solgivedajaid ei olnud.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 4 -->
+<QUESTION>Millisest materjalist valmistati esimesed kanalisatsioonitorud?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Plastikust. </VAR1>
+	<VAR2>Betoonist. </VAR2>
+	<VAR3>Puust. </VAR3>
+	<ANSWER1>Vale! Plastik on kõige enam kasutatav materjal praegu.</ANSWER1>
+	<ANSWER2>Vale! Betoontorusid paigaldati valdavalt mõnikümmend aastat tagasi.</ANSWER2>
+	<ANSWER3>Õige! Esimesed teadaolevad kanalisatsioonitorud olid valmistatud puust.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 5 -->
+<QUESTION>Millist materjali kasutatakse praegu kõige enam kanalisatsioonitorude valmistamisel?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Plastikut. </VAR1>
+	<VAR2>Betooni. </VAR2>
+	<VAR3>Puitu. </VAR3>
+	<ANSWER1>Õige! Tänapäeval on enim levinud plastikust torud.</ANSWER1>
+	<ANSWER2>Vale! Betoontorud olid valdavalt kasutusel mõnikümmend aastat tagasi.</ANSWER2>
+	<ANSWER3>Vale! Puidust torusid kasutati ammustel aegadel. Esimesed teadaolevad kanalisatsioonitorud olid valmistatud just puidust.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 6 -->
+<QUESTION>WC-potist tohin alla visata:
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>WC-paberi. </VAR1>
+	<VAR2>Kasutatud kilekoti. </VAR2>
+	<VAR3>Kommipaberid. </VAR3>
+	<ANSWER1>Õige! WC-paber laguneb vees ega tekita torudes ummistusi.</ANSWER1>
+	<ANSWER2>Vale! Kilekott ei lagune vees ning võib tekitada torus ummistuse.</ANSWER2>
+	<ANSWER3>Vale! Kommipaberid ei lagune vees ning võivad tekitada torus ummistuse.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 7 -->
+<QUESTION>Kõige jämedamad kanalitorud on:
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Majade kanalisatsioonitorud. </VAR1>
+	<VAR2>Tänavate all jooksvad kanalisatsioonitorud. </VAR2>
+	<VAR3>Kollektortorud. </VAR3>
+	<ANSWER1>Vale! Need on hoopis kõige peenemad.</ANSWER1>
+	<ANSWER2>Vale! Need on Tallinnas kasutatavate kanalitorude seas keskmise suurusega.</ANSWER2>
+	<ANSWER3>Õige! Nende läbimõõt ulatub kuni 2,6 meetrini, mis tähendab, et inimene mahub nendes täies pikkuses kõndima.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 8 -->
+<QUESTION>Mis aastast pärineb Tallinna vanim kanalisatsioonitoru?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Aastast 1422. </VAR1>
+	<VAR2>Aastast 1892. </VAR2>
+	<VAR3>1960. aastatest. </VAR3>
+	<ANSWER1>Õige! Sellel ajal olid torud puidust.</ANSWER1>
+	<ANSWER2>Vale! Sel ajal hakati kasutama juba keraamilisi torusid.</ANSWER2>
+	<ANSWER3>Vale! Siis ehitati küll palju kanalisatsioonivõrku, eeskätt just Mustamäele, kuid esimesed kanalisatsioonitorud on siiski pärit varasemast ajast.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 9 -->
+<QUESTION>Milline on peamine kanalitorude puhastamise viis?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Survepesu. </VAR1>
+	<VAR2>Torustikku lastakse keemilist ainet. </VAR2>
+	<VAR3>Torusid ei pestagi. </VAR3>
+	<ANSWER1>Õige! Torudesse lastakse suure survega vett, mis uhub minema toruseintele kogunenud mustuse, rasva ja liiva.</ANSWER1>
+	<ANSWER2>Vale! See viis ei oleks sugugi keskkonnasõbralik.</ANSWER2>
+	<ANSWER3>Vale! Pikema aja jooksul ladestub torustiku seintele igasugu mustust, näiteks rasv ja liiv, mis tekitab ummistusi.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 10 -->
+<QUESTION>Kuidas puhastatakse tänavalt kogutud sadeveed, enne kui need taas loodusse juhitakse?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Ei puhastatagi. </VAR1>
+	<VAR2>Kogu sadevesi läbib põhjaliku puhastuse reoveepuhastusjaamas. </VAR2>
+	<VAR3>Kasutatakse õli- ja liivpüüdureid. </VAR3>
+	<ANSWER1>Vale! Tänavamustus ja tolm, õlid ning muu reostus teeb vihma- ja lumesulamisvee mustaks ning seda on vaja enne loodusesse juhtimist täiendavalt puhastada.</ANSWER1>
+	<ANSWER2>Vale! Tänavalt kogutud sadevee puhastamiseks kasutatakse ka lihtsamat moodust.</ANSWER2>
+	<ANSWER3>Õige! Pärast nende läbimist on vesi loodusesse tagasi laskmiseks piisavalt puhas.</ANSWER3>
+</QUESTION>

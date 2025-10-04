@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<categorys>
+	<category id="home">
+		<title>Kodus</title>
+	</category>
+	<category id="evacuate">
+		<title>Koolis</title>
+	</category>
+</categorys>

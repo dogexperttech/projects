@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="pooning_bg.swf" swf="pooning_suits.swf" important="important_smoke.xml">
+	<text>Pööning on täitunud suitsuga ning tulekollet ei ole näha</text>
+
+	<answer correct="no" swf="pooning_suits_kustutan.swf">
+		<text>Kustutan ise</text>
+		<comment>
+			<p><b>Kui suitsu on nii palju, et see takistab pööningul orienteerumist ning tulekahju põhjust ei ole näha, on mõistlikum kutsuda abi. </b>Inimesele on suits sageli tulest ohtlikum. Tiheda suitsu sissehingamisele järgneb teadvuse kaotus. Teiseks piirab suits nägemisulatust ja tekib eksimise oht (eriti avaral pööningul). Sa ei pruugi paksus suitsus tulekollet leida ning sead enda elu suitsus ukerdades asjatult ohtu.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="pooning_suits_112.swf">
+		<text>Kutsun abi</text>
+		<comment>
+			<p><b>Kui ruum on maast laeni suitsu täis ja tulekollet ei ole näha, siis kulutaksid selle otsimisega asjatult aega ning seaksid oma elu suitsus ukerdades ja seda sisse hingates ohtu. </b>Suits ja põlemisgaasid liiguvad alati ülespoole, seetõttu on pööning tulekahju korral ohtlikum koht kui näiteks esimene korrus. Esmalt teavita teisi elumajas viibijaid ja seejärel helista 112. Kui eluruumides ja koridoris suitsu ei ole, võtan võimalusel kaasa olulised dokumendid. Kui tead, kuidas seda teha, lülita välja elekter ja gaas. Seejärel jää õues ootama tuletõrjujate tulekut, nende saabudes anna asjakohast <moreinfo id="infoneeded">infot</moreinfo>.</p>
+		</comment>
+	</answer>
+</question>

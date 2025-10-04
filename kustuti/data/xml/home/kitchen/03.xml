@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="roster_bg.swf" swf="roster.swf"  important="important_electricity.xml">
+	<text>Süttis röster</text>
+	
+	<answer correct="no" swf="roster_vesi.swf">
+		<text>Kustutan rösteri kopsikutäie veega</text>
+		<comment>
+			<p><b>Elektrivahendite kustutamiseks vesi ei sobi. </b>Vee sattumisel elektriseadmele tekib lühise ja elektrilöögi saamise oht. Isegi kui olete seinast välja tõmmanud süttinud seadme, võib selle kõrval olev kohvikann või köögiraadio olla endiselt pinge all.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="roster_aken.swf">
+		<text>Viskan süttinud rösteri aknast välja</text>
+		<comment>
+			<p>Põlev ese võib õues omakorda midagi süüdata või tabada juhuslikku möödujat. Põleva eseme aknast välja viskamine on õigustatud ainult siis, kui olete veendunud selle ohutuses ja puuduvad muud võimalused köögisisustuse süttimise vältimiseks.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="roster_juhe.swf">
+		<text>Tõmban juhtme seinast välja ja nihutan rösteri eemale kergesti süttivatest esemetest </text>
+		<comment>
+			<p>Elektriseadmete süttimisel tuleb need kõigepealt vooluvõrgust välja tõmmata, seejärel kontrollida, et nad ei süütaks lähedalolevaid esemeid. Rösteri nihutamiseks on põletuse vältimiseks parem kasutada näiteks pajakindaid. Juhul kui tuli ise ei sumbu, kasutada <moreinfo id="blanket">tulekustutusvaipa</moreinfo> või <moreinfo id="extinguisher">tulekustutit</moreinfo>.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="roster_ratik.swf">
+		<text>Lämmatan tule käterätiga</text>
+		<comment>
+			<p>Tule lämmatamine on õige kustutusmeetod, kuid hästi toimib see siiski kustutustekki kasutades. Köögikäterätid on tavaliselt liiga väiksed, et katta põlev ese õhukindlalt. Kustutamise ajal võib käterätt süttida, sest selle riie ei ole tulekindel.</p>
+		</comment>
+	</answer>
+	
+</question>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question swf="h2iretunnis.swf" important="important.xml">
+<text>Õpetaja teatab, et tuleb klassist lahkuda</text>
+
+	<answer correct="no" swf="v2ljumine_jooksen.swf">
+		<text>Torman ukse juurde ja jooksen lühimat teed mööda õue</text>
+		<comment>
+		<p><b>Lühim tee pole alati ohutuim ning kiirustamisest olulisem on tulekahju puhul arukas käitumine. NB! 1.</b> Ust tohib avada vaid siis, kui uks ei ole kuumenenud ja selle vahelt ei immitse suitsu.<b> 2.</b> Uks tuleb avada ettevaatlikult, ise ukse taha hoidudes ja olla valmis seda ohu ilmnemisel kohe uuesti sulgema.<b> 3.</b> Välisukseni liikumisel peab vältima suitsu täis koridore.<b> 4.</b> Klass peab väljuma koolimajast koos ja kõik jälgivad, et keegi maha ei jääks.<b> 5.</b> Ettevaatusabinõuna peab grupist viimane sulgema kõik uksed, millest läbi minnakse.</p></comment>
+	</answer>
+	
+	<answer correct="yes" swf="v2ljumine_paarikaupa.swf">
+		<text>Väljume klassist koos, paarikaupa või hanereas</text>
+		<comment>
+		<p><b>Paarikaupa või hanereas liikudes läbitakse kitsad uksed ja trepid kõige kiiremini,</b> õpetajal on nii kõige lihtsam gruppi juhendada.<br><b>NB! 1.</b> Välisukseni liikumisel peab vältima suitsu täis koridore.</br><b> 2.</b> Klass peab kogu aeg püsima ühes grupis ja kõik jälgivad, et keegi maha ei jääks.<b> 3.</b> Ettevaatusabinõuna peab grupist viimane sulgema kõik uksed, millest läbi minnakse.<b> 4.</b> Mingil juhul ei tohi kasutada lifti.</p>
+		</comment>
+	</answer>
+	
+	<answer correct="no" swf="v2ljumine_yksi.swf">
+		<text>Avan ettevaatlikult ukse, väldin suitsu täis koridore ja lähen õue</text>
+		<comment>
+		<p><b>Klass peab väljuma koolimajast koos!</b> Ainult nii saavad õpetaja ja klassikaaslased jälgida, et ükski neist ei jääks hoonesse.<br><b>NB! 1.</b> Ust tohib avada vaid siis, kui uks ei ole kuumenenud ja selle vahelt ei immitse suitsu</br><b> 2.</b> Uks tuleb avada ettevaatlikult, ise ukse taha hoidudes ja olla valmis seda ohu ilmnemisel kohe uuesti sulgema.</p>
+		</comment>
+	</answer>
+</question>

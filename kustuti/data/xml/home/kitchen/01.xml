@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="rasvp6leb_bg.swf" swf="rasvp6leb.swf" important="important.xml">
+	<text>Pannil on süttinud rasv</text>
+	
+	<answer correct="yes" swf="rasvp6leb_kaaspeale.swf">
+		<text>Panen pannile kaane peale</text>
+		<comment>
+			<p><b>Oluline on kustutada süttinud õli või rasv ilma, et see laiali pritsiks ja suuremat kahju tekitaks.</b></p><p>Pannile asetatud õige suurusega kaas lõpetab hapniku juurdevoolu ja leek kustub. Ära kiirusta kaane alla vaatamisega, las jahtub maha.</p><p><b>NB! Kõigepealt tuleb pliit välja lülitada!</b></p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="rasvp6leb_vesipeale.swf">
+		<text>Valan pannile vett</text>
+		<comment>
+			<p><b>Põlevale õlile sattunud vesi reageerib intensiivselt õliga. Selle tulemusena paiskub õli anumast välja, moodustades n.ö "tulepalli".</b></p><p>Kustutaja ise võib saada tugevaid põletushaavu ning tuli kandub üle ventilatsiooni või kergesti süttivatele materjalidele(näiteks kardinatele).</p>
+		</comment>
+	
+	</answer>
+
+	<answer correct="yes" swf="rasvp6leb_kustutustekk.swf">
+		<text>Kasutan <moreinfo id="blanket">tulekustutusvaipa</moreinfo> või mõnd muud paksu riideeset</text>
+		<comment>
+			<p><b>Oluline on kustutada süttinud õli või rasv ilma, et see laiali pritsiks ja suuremat kahju tekitaks.</b></p><p>Kustutamiseks sobib ka suurem käterätik. Liiga suure ja raske riidetüki kasutamisel võib tekkida oht, et üle pliidi ääre rippudes tõmbab see pliidile jäänud panni oma raskusega maha või takerdub kustutaja ise ähmiga sellesse.</p><p><b>NB! Kõigepealt tuleb pliit välja lülitada!</b></p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="rasvp6leb_kraanikaussi.swf">
+		<text>Kallan õli kraanikaussi</text>
+		<comment>
+			<p><b>Kuuma ja põleva eseme liigutamine võib kaasa tuua tule leviku kiirenemise.</b> Tuline pann võib käest libiseda enne kraanikausini jõudmist või hooga kallates läigatab põlev rasv üle kraanikausi serva.</p><p>Kraanikausis on alati mingil hulgal vett, mis õliga reageerib ning osa kuuma õli paiskub krannikausist välja.</p><p>Keeva õli temperatuur on umbes 300°C, mis kahjustab tugevasti plastikust äravoolutoru.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="rasvp6leb_ootan.swf">
+		<text>Jään abi ootama</text>
+		<comment>
+			<p><b>Mitte tegutsemine võib olla sama ohtlik kui vale tegutsemine.</b></p><p>Kuni tuletõrjujad sündmuskohale jõuavad, temperatuur tõuseb ning kuumus ja suits rikuvad sisustuse. Kergesti süttivad esemed võivad suures kuumuses ka ise süttida. Eriti ohtlikuks muutub olukord, kui köögis hoitakse värve, lahusteid või tuleohtlikke puhastusvahendeid.</p><p>Abi ootamine on õigustatud, kui leiad, et endal pole võimalust tule levikut piirata. Et abi tuleks, pead sellest teada andma, helistades 112</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="rasvp6leb_kustuti.swf">
+		<text>Kasutan <moreinfo id="extinguisher">tulekustutit</moreinfo></text>
+		<comment>
+			<p><b>Kustutit tuleb kasutada 3-4m kauguselt nii, et pulber langeb kustutavale objektile.</b></p>
+			<p>Kui kasutada kustutit lähemalt ja suunata pulbrijuga otse pannile, siis pritsib põlev rasv kustumise asemel pannilt välja. Veel tuleb arvestada, et kustutuspulber katab kogu köögi sisustuse ning näiteks elektroonikaseadmeid on praktiliselt võimatu hiljem sellest puhastada.</p><p><b>NB! Kõigepealt tuleb pliit välja lülitada!</b></p>
+		</comment>
+	</answer>
+	
+</question>

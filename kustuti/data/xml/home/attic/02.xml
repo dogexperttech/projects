@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="pooning_bg.swf" swf="pooning.swf" important="important.xml">
+	<text>Suitsu on pööningul vähe, põleng on hästi näha</text>
+
+	<answer correct="yes" swf="pooning_kustutan.swf">
+		<text>Kustutan ise</text>
+		<comment>
+			<p>Kui suitsu on nii vähe, et see võimaldab pööningul ohutult liikuda; tulekolle on nähtav ning mitte eriti suur, on mõistlik see tulekustutiga ise kustutada. Teisiti toimides võib tuletõrje kohale jõudmise hetkeks olla tulekahju kiiresti arenenud ja kahjud tunduvalt suuremad.</p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="pooning_tassin.swf">
+		<text>Hakkan koduelektroonikat välja tassima</text>
+		<comment>
+			<p>Kui suitsu on nii vähe, et see võimaldab pööningul ohutult liikuda; tulekolle on nähtav ning mitte eriti suur, on mõistlik see tulekustutiga ise kustutada. Pööningu põlemisel jõuab suits alumistele korrustele hiljem, elektroonika päästmisega pole mõtet aega raisata. Kui ise kustutamisega hakkama ei saa, kutsu parem abi (helista 112) ning teavita teisi hoones viibijaid.</p>
+		</comment>
+	</answer>
+</question>

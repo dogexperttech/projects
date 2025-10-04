@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="evakvahetunnis_bg.swf" swf="h2irevahetunnis.swf" important="important.xml">
+	<text>Häire vahetunnis</text>		
+	<answer correct="no" swf="evakvahetunnis_jooksen.swf">
+		<text>Väljun kiiresti koolimajast ja jään peaukse juures ootama</text>
+		<comment>
+		<p><b>Organiseerimata väljumine segab evakuatsiooni.</b> Esmalt on mõistlikum oodata täiendavat teadet kas õpetajalt või kooli siseraadiost - häire võis põhjustada näiteks suitsuanduri rike ja väljumine ei ole vajalik.<b> Koolis vastutavad evakuatsiooni eest õpetajad, tuleb kuulata nende korraldusi.</b> Kui hulk inimesi püüavad korraga väljuda kitsast uksest, on tagajärjeks tropp, kusjuures välja saavad vähesed. Kui sama hulk inimesi jookseks näiteks ükshaaval samast uksest läbi, võiksid nad väljuda mõne minuti jooksul. Samuti ei pääse tuletõrjujad vajadusel sisse, kui suur hulk inimesi ukse ees seisab.</p>
+		</comment>
+	</answer>
+	<answer correct="yes" swf="h2irevahetunnis_ootan.swf">
+		<text>Lähen koridori ja ootan teadet. Vajadusel olen valmis väljuma</text>
+		<comment>
+		<p><b>Esmalt tuleb olukorda rahulikult hinnata ja alles siis tegutseda.</b></p><p>Sageli on tulekahjualarmi põhjused hõlpsalt kõrvaldatavad ning koolimajast väljumine ei ole vajalik. Ei tohi aga unustada, et tegelik tulekahju võib areneda väga kiiresti ja siis on vajalik kohene ja planeeritud evakuatsioon.</p>
+		</comment>
+	</answer>			
+	<answer correct="no" swf="h2irevahetunnis_varjun.swf">
+		<text>Varjun klassis või WC-s ja sulgen võimalikult õhukindlalt ukse</text>
+		<comment>
+		<p><b>Tulekahju puhul on alati ohutum hoonest väljuda kui sinna sisse jääda.</b></p><p>Klassi varjud siis, kui hoonest pole enam võimalik ohutult väljuda - kui koridoris on palju suitsu või on kuulda tule praginat. Õpetajatel on sel juhul keeruline evakuatsiooni korraldada, sest ruumide läbi vaatamisele kulub palju aega.</p>
+		</comment>
+	</answer>
+</question>

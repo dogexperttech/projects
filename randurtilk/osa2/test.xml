@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Question No 1 -->
+<QUESTION>Kui kaua puhastatakse joogivett Ülemiste veepuhastusjaamas?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>3 tundi. </VAR1>
+	<VAR2>15 tundi. </VAR2>
+	<VAR3>30 tundi. </VAR3>
+	<ANSWER1>Vale! Selle ajaga jõutakse järveveest eemaldada vaid suurem praht, vetikad ja hõljum.</ANSWER1>
+	<ANSWER2>Õige! Just nii kaua läheb aega, et järvevesi kvaliteetseks joogiveeks puhastada.</ANSWER2>
+	<ANSWER3>Vale! Selle ajaga jõuaks puhastatav vesi teha jaamas kaks tiiru.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 2 -->
+<QUESTION>Miks kasutatakse joogivee puhastamisel kloori?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Et eraldada veest praht. </VAR1>
+	<VAR2>Et tappa inimese tervisele kahjulikud bakterid. </VAR2>
+	<VAR3>Et puhastatud joogivesi säiliks hoidlas ja torudes kvaliteetne kodudesse jõudmiseni. </VAR3>
+	<ANSWER1>Vale! Selle töö teevad ära võred.</ANSWER1>
+	<ANSWER2>Vale! Bakterite hävitamiseks kasutatakse osooni.</ANSWER2>
+	<ANSWER3>Õige! Kloori lisatakse juba puhastatud joogiveele kõige viimasena.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 3 -->
+<QUESTION>Kui kiiresti suudaks Ülemiste veepuhastusjaam puhastada kogu Ülemiste järve vee?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Ligikaudu kahe kuuga. </VAR1>
+	<VAR2>Nelja ja poole kuuga.  </VAR2>
+	<VAR3>Ühe aastaga. </VAR3>
+	<ANSWER1>Vale! Selle ajaga saaks puhtaks poole järveveest.</ANSWER1>
+	<ANSWER2>Õige! Just niipalju kuluks jaamal aega, et täisvõimsusel töötades terve järvetäis vett joogiveeks puhastada.</ANSWER2>
+	<ANSWER3>Vale! Selle aja jooksul jõuaks jaam puhastada juba veidi enam kui kaks järvetäit vett.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 4 -->
+<QUESTION>Kuidas eemaldatakse puhastusse suunatavast järveveest väikesed kalad?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Kalamehed püüavad kalad välja. </VAR1>
+	<VAR2>Ülemiste järves ei elagi kalu. </VAR2>
+	<VAR3>Kalad jäävad enne vee puhastusjaama sisenemist võre taha. </VAR3>
+	<ANSWER1>Vale! Kalapüük Ülemiste järvel on üldjuhul keelatud. Kalastada võivad seal vaid vastava koolituse saanud inimesed ning selleks on vaja eriluba.</ANSWER1>
+	<ANSWER2>Vale! Järves elab arvukalt kalu.</ANSWER2>
+	<ANSWER3>Õige! Võred on osa puhastuse esimesest etapist, mida nimetatakse mehaaniliseks puhastuseks.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 5 -->
+<QUESTION>Palju toodetakse Ülemiste veepuhastusjaamas vett ühe päeva jooksul?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>19 000  m3 </VAR1>
+	<VAR2>1 300 000 m3 </VAR2>
+	<VAR3>65 000 m3</VAR3>
+	<ANSWER1>Vale! Nii palju vett tarbitakse päevas Tallinna suurimas linnaosas Lasnamäel, kus elab pea 115 000 elanikku.</ANSWER1>
+	<ANSWER2>Vale! Nii palju vett tarbitakse ühe päeva jooksul suurlinnades nagu London, kus elab üle seitsme miljoni inimese. Seda on viis korda rohkem, kui Eestis inimesi kokku.</ANSWER2>
+	<ANSWER3>Õige! Selle veega saavad vajalikud toimingud teha kõik 400 000 Tallinna elanikku.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 6 -->
+<QUESTION>Milleks kasutati Tõnismäel asuvat ajaloolist veetorni?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Sinna koguti vihmavett, mida elanikud said kastmiseks tarvitada. </VAR1>
+	<VAR2>Torni kasutati ümbruskonna varustamiseks veega. </VAR2>
+	<VAR3>Sinna koguti vett tulekahjude kustutamiseks. </VAR3>
+	<ANSWER1>Vale! Vihmavett sinna ei kogutud.</ANSWER1>
+	<ANSWER2>Õige! Tornist voolas vesi alla survega ja nõnda oli seda lihtne majapidamisteni toimetada.</ANSWER2>
+	<ANSWER3>Vale! Tornis olevat vett võidi ka tulekahju kustutamiseks tarvitada, kuid see ei olnud torni peaeesmärk.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 7 -->
+<QUESTION>Kuidas kontrollitakse, et jaamast väljuv ning torustikes voolav vesi oleks kvaliteetne joogivesi?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Jaama juures töötavad veemaitsjad. </VAR1>
+	<VAR2>Ei kontrollitagi. </VAR2>
+	<VAR3>Tehakse veeanalüüse. </VAR3>
+	<ANSWER1>Vale! Sellist ametit ei ole olemas.</ANSWER1>
+	<ANSWER2>Vale! Jaamast väljuv puhastatud vesi ja ka vesi torustikes on pideva kontrolli all.</ANSWER2>
+	<ANSWER3>Õige! Näiteks Tallinnas teostab AS Tallinna Vesi labor veeanalüüse iga päev.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 8 -->
+<QUESTION>Mille abil saadakse kätte põhjavesi?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Puurkaevu abil. </VAR1>
+	<VAR2>Torude abil. </VAR2>
+	<VAR3>Põhjavett ei saadagi maa seest kätte.  </VAR3>
+	<ANSWER1>Õige! Puurkaev on puurimise teel rajatud veevõtuseadeldis, mis on ette nähtud spetsiaalselt põhjavee ammutamiseks maapõuest.</ANSWER1>
+	<ANSWER2>Vale! Torusid kasutatakse küll vee inimesteni toimetamiseks, kuid mitte maapõuest kätte saamiseks.</ANSWER2>
+	<ANSWER3>Vale! Pinnaveest looduslikult puhtamat põhjavett kasutab suurem osa Eestist.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 9 -->
+<QUESTION>Kuidas põhjavett puhastatakse?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Põhjavesi läbib põhjaliku puhastuse veepuhastusjaamas. </VAR1>
+	<VAR2>Põhjavett ei puhastatagi. </VAR2>
+	<VAR3>Puurkaevudes olevate eriliste filtrite abil. </VAR3>
+	<ANSWER1>Vale! Põhjavesi, mida kasutab suur osa Eestist, on looduslikust pinnaveest puhtam ning ei vaja seetõttu nii põhjalikku puhastamist.</ANSWER1>
+	<ANSWER2>Vale! Olgugi et põhjavesi on looduslikult puhas, on enne inimesteni toimetamist vaja eemaldada selles leiduvad keemilised elemendid.</ANSWER2>
+	<ANSWER3>Õige! Filtrite ning vette lastud õhu abil vees leiduvad keemilised elemendid sadestuvad ning alles jääb kvaliteetne joogivesi.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 10 -->
+<QUESTION>Mis aastal ehitati Tallinna joogivett puhastav Ülemiste veepuhastusjaam?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>1927.</VAR1>
+	<VAR2>1970.</VAR2>
+	<VAR3>1700.</VAR3>
+	<ANSWER1>Õige! 2007. aastal on jaama 80. juubel.</ANSWER1>
+	<ANSWER2>Proovi uuest! Sel aastal valmis esialgse jaama kõrvale uus jaam.</ANSWER2>
+	<ANSWER3>Vale! Sel ajal kasutati järve küll joogiveeallikana, kuid puhastusjaama siis veel ei olnud.</ANSWER3>
+</QUESTION>

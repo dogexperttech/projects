@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="evakvahetunnis_bg.swf" swf="evakvahetunnis.swf" important="important.xml">
+	<text>Evakuatsioon vahetunnis</text>		
+
+	<answer correct="no" swf="evakvahetunnis_jooksen.swf">
+		<text>Jooksen kiiresti koolimajast välja ja jään peaukse juures ootama</text>
+		<comment>
+		<p>Koolis vastutavad evakuatsiooni eest õpetajad, tuleb kuulata nende korraldusi.<b> Organiseerimata väljumine segab evakuatsiooni.</b> Kui hulk inimesi püüavad korraga väljuda kitsast uksest, on tagajärjeks tropp, kusjuures välja saavad vähesed. Kui sama hulk inimesi jookseks näiteks ükshaaval samast uksest läbi, võiksid nad väljuda mõne minuti jooksul.</p>
+		</comment>
+	</answer>
+	
+	<answer correct="yes" swf="evakvahetunnis_kuulan.swf">
+		<text>Kuulan õpetaja korraldusi. Kui õpetajat pole, liigun rahulikult väljapääsu poole</text>
+		<comment>
+		<p>Koolis vastutavad evakuatsiooni eest õpetajad, tuleb kuulata nende korraldusi. Kui aga ükski õpetajatest evakuatsiooni ei korralda, tuleb lahkuda rahulikult väljapääsu poole liikudes. Suuremad õpilased aitavad väiksemaid.<b> Mitte kunagi ei tohi liikuda suunas, kus on rohkem suitsu. Kui suits ruumides tiheneb, tuleb sealt lahkuda igal juhul, ka ilma õpetajapoolse korralduseta.</b></p>
+		</comment>
+	</answer>
+	
+	<answer correct="no" swf="evakvahetunnis_garderoob.swf">
+		<text>Võtan koolikoti ja lähen garderoobi ülerõivaste järele</text>
+		<comment>
+		<p><b>Kas garderoobi minek on vajalik, otsustab õpetaja.</b> Kui ilm on külm ja kogunemiskoht asub õues, on ülerõivad vajalikud. Garderoobis üleriiete otsimisega võib aga palju inimesi koguneda suhteliselt väikesesse ning väheste väljapääsudega ruumi. Kiire lahkumine võib osutuda võimatuks ja seega seal viibimine ohtlikuks.</p>
+		</comment>
+	</answer>
+</question>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="alarm_bg.swf" swf="alarm.swf" important="important.xml">
+	<text>Toas käivitus suitsuanduri alarm, kõrvalruumides suitsu ei ole</text>
+
+	<answer correct="yes" swf="alarm_sisenen.swf">
+		<text>Võtan kaasa kustuti ja teen kindlaks, mis põleb</text>
+		<comment>
+			<p>Kui toa uks ei ole kuum ning nähtavat suitsu ei ole, on tulekahju tõenäoliselt alles algstaadiumis ja õige tegutsemise korral kustutatav. Toaukse avamisel ole valmis seda vajadusel kiiresti sulgema, sest värsket õhku juurde saades võib tuli plahvatuslikult areneda. Põleva teleri kustutamiseks kasuta tulekustutit, selle puudumisel tulekustutusvaipa või suurt paksu riideeset. Ära unusta, et teler on elektriline vahend - see tuleb enne kustutamist vooluvõrgust välja tõmmata! </p>
+		</comment>
+	</answer>
+
+	<answer correct="no" swf="alarm_112.swf">
+		<text>Väljun kiiresti hoonest ja kutsun abi</text>
+		<comment>
+			<p>Tegevus on õige juhul, kui hoones pole teisi inimesi ning sul pole käepärast tulekustutusvahendeid (või napib oskusi nende kasutamiseks). Algstaadiumis tulekahju puhul ei ole selline tegevus siiski õigustatud. Õieti paigaldatud suitsuandur annab tulekahjust väga ruttu märku, selline tuli on käepäraste vahenditega hõlpsasti kustutatav ning seda ise tehes väldid suurema kahju tekkimist.</p>
+		</comment>
+	</answer>
+</question>

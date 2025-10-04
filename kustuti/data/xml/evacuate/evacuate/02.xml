@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question swf="h2iretunnis.swf" important="important_smoke.xml">
+	<text>Koridoris on suits, õpetaja on otsustanud klassi jääda</text>
+	
+	<answer correct="no" swf="h2iretunnis_istun.swf">
+		<text>Jään pinki istuma ja ootan tuletõrjujate saabumist</text>
+		<comment>
+		<p><b>Alati on võimalik midagi teha kas enda olukorra parandamiseks või abistajate töö lihtsustamiseks. </b></p><p>Kui põlevast hoonest pole võimalik väljuda, tuleb: <br><b>1.</b> suitsu ja tule leviku takistamiseks sulgeda võimalikul õhukindlalt klassiruumi uks</br><b> 2.</b> vingumürgituse vältimiseks avada aken <b>3.</b> anda enda asukohast tuletõrjujatele märku. Selleks võib hüüda, jalgu trampida, mööblit kolistada.</p>
+		</comment>
+	</answer>
+		
+	<answer correct="yes" swf="klassis_tegutsen.swf">
+		<text>Sulgen õhukindlalt klassi ukse ja avan aknad. Teen kõik, et mind märgataks</text>
+		<comment>
+		<p><b>Alati on võimalik midagi teha kas enda olukorra parandamiseks või abistajate töö lihtsustamiseks. </b></p><p>Kui põlevast hoonest pole võimalik väljuda, tuleb: <br><b>1.</b> suitsu ja tule leviku takistamiseks sulgeda võimalikul õhukindlalt klassiruumi uks</br><b> 2.</b> vingumürgituse vältimiseks avada aken <b>3.</b> anda enda asukohast tuletõrjujatele märku. Selleks võib hüüda, jalgu trampida, mööblit kolistada.</p>
+		</comment>
+	</answer>
+</question>

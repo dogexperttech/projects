@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Question No 1 -->
+<QUESTION> Kui palju joogivett on soovitatav ööpäevas juua?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>10–20 liitrit. </VAR1>
+	<VAR2>Kaks liitrit. </VAR2>
+	<VAR3>Vett ei ole üldse vaja juua, piisab limonaadist. </VAR3>
+	<ANSWER1>Vale! Nii palju vett joob korraga ära hobune.</ANSWER1>
+	<ANSWER2>Õige! Tervisespetsialistid soovitavad juua paar liitrit vett ööpäevas.</ANSWER2>
+	<ANSWER3>Vale! Inimese keha vajab elus püsimiseks puhast joogivett, seda ei asenda ei limonaad ega mahlad.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 2 -->
+<QUESTION>Kui palju tarbib Eesti inimene keskmiselt ööpäevas vett?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1> 1 000 liitrit inimese kohta. </VAR1>
+	<VAR2> 10 liitrit inimese kohta. </VAR2>
+	<VAR3> 110 liitrit inimese kohta. </VAR3>
+	<ANSWER1>Vale! Sellise koguse vett kasutaksid päevas ära kümme inimest.</ANSWER1>
+	<ANSWER2>Vale! Nii vähese veega ei saa isegi nõusid kraanikausis puhtaks pesta.</ANSWER2>
+	<ANSWER3>Õige! See on Eesti keskmine näitaja. Meie põhjanaabrid kasutavad ööpäevas 160 liitrit vett.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 3 -->
+<QUESTION>Kui suur osa meie planeedi veest on joogikõlbulik?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1> Kogu planeedil leiduv vesi on joogikõlbulik. </VAR1>
+	<VAR2> 30%. </VAR2>
+	<VAR3> 1%. </VAR3>
+	<ANSWER1>Vale! Enamik Maal asuvast veest on soolane ja ei ole seetõttu eelneva puhastuseta joodav. Inimene saab juua vaid magedat vett.</ANSWER1>
+	<ANSWER2>Vale! Kui joogikõlbulik oleks nii suur osa Maa veest, ei oleks Aafrikas, Indias ega Aasias joogivee puuduse probleemi.</ANSWER2>
+	<ANSWER3>Õige! Ehkki magedat vett on maakeral ligi 3%, asub enamik sellest liustikes, mida ei saa paraku joogiks kasutada.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 4 -->
+<QUESTION>Millisel otstarbel kulub koduses majapidamises kõige rohkem vett? 
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Pesu pesemisel pesumasinas. </VAR1>
+	<VAR2>Duši all ja vannis käimisel. </VAR2>
+	<VAR3>WC-poti loputamisel. </VAR3>
+	<ANSWER1>Vale! Pesu pesemisel kulub küll üpris palju vett – 22% kogu veekasutusest – kuid siiski mitte kõige rohkem.</ANSWER1>
+	<ANSWER2>Vale! Duši all käimine ja vannitamine kulutab küll üpris palju vett – 17% kogu veekasutusest – kuid siiski mitte kõige rohkem.</ANSWER2>
+	<ANSWER3>Õige! WC-s kulub kõige rohkem vett – 27% kogu veekasutusest.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 5 -->
+<QUESTION>Kui kaua suudab inimene elada ilma puhta joogiveeta?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>4–5 päeva. </VAR1>
+	<VAR2>40–50 päeva. </VAR2>
+	<VAR3>Ühe päeva. </VAR3>
+	<ANSWER1>Õige! Inimene suudab ilma puhta joogiveeta vastu pidada vaid 4–5 päeva.</ANSWER1>
+	<ANSWER2>Vale! Nii kaua võib inimene vastu pidada söögita, kuid joogivee puhul on see aeg palju lühem.</ANSWER2>
+	<ANSWER3>Vale! Kuigi puhas vesi on inimese organismile hädavajalik, suudab ta veeta vastu pidada siiski kauem.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 6 -->
+<QUESTION>Kas merevett tohib juua?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Jah, aga enne tuleb seda filtreerida. </VAR1>
+	<VAR2>Ei tohi. </VAR2>
+	<VAR3>Jah, aga enne tuleb see korralikult läbi keeta. </VAR3>
+	<ANSWER1>Vale! Merevesi on oma soolsuse tõttu joogiks kõlbmatu ning filtreerimisega soolsust ei eralda.</ANSWER1>
+	<ANSWER2>Õige! Merevesi on soolane ning seetõttu ei kõlba see joogiks. Sool viib organismist vett välja ja tekitab seetõttu veel suurema janu.</ANSWER2>
+	<ANSWER3>Vale! Merevett ei tohi juua isegi pärast keetmist.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 7 -->
+<QUESTION>Kus kasutatakse suurem osa maailmas leiduvast mageveest? 
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Tööstuses, tehastes. </VAR1>
+	<VAR2>Majapidamises ja suvilas. </VAR2>
+	<VAR3>Põllumajanduses. </VAR3>
+	<ANSWER1>Vale! Tööstus on küll üks peamisi magevee kasutajaid, kuid seal ei kulu seda kõige rohkem.</ANSWER1>
+	<ANSWER2>Vale! Inimesed kulutavad kogu maailmas iga päev ära küll väga palju magevett, kuid suurem osa sellest kulub hoopis mujal.</ANSWER2>
+	<ANSWER3>Õige! Põldude niisutamisele kulub maailmas kõige rohkem magevett.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 8 -->
+<QUESTION>Kuidas saab igaüks meist kaasa aidata maailma veevarude kokkuhoiule? 
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Vähendades isiklikku veekasutust kodus. </VAR1>
+	<VAR2>Üks inimene ei saa midagi muuta. </VAR2>
+	<VAR3>Juua vähem vett. </VAR3>
+	<ANSWER1>Õige! Me kõik saame oma harjumusi muutes aidata kaasa veevarude kokkuhoiule.</ANSWER1>
+	<ANSWER2>Proovi veel! Ühe inimese põhjustatud muutus ei ole küll kohe märgatav, kuid sellegipoolest on ka üksikisiku käitumisel suur tähtsus.</ANSWER2>
+	<ANSWER3>Vale! Vesi on inimorganismile väga vajalik, seda tuleks päevas juua kaks liitrit. Pealegi ei ole joogiks kuluv kogus muu veekuluga võrreldes kuigi suur.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 9 -->
+<QUESTION>Kui suure osa inimese kehast moodustab vesi?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Veerandi ehk 25 %. </VAR1>
+	<VAR2>70% ehk ligikaudu kolmveerand. </VAR2>
+	<VAR3>Pool ehk 50%. </VAR3>
+	<ANSWER1>Vale! Seda on kindlasti liiga vähe.</ANSWER1>
+	<ANSWER2>Õige! Koguni 70% inimese organismist moodustab vesi. Kolmveerand oleks 75%.</ANSWER2>
+	<ANSWER3>Vale! Täiskasvanud terve inimese kehas on rohkem vett. Inimese vananedes väheneb ka vee hulk tema organismis.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 10 -->
+<QUESTION>Kui palju vett kulub korraga WC-s?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>1–3 liitrit.</VAR1>
+	<VAR2>5–7 liitrit. </VAR2>
+	<VAR3>11–20 liitrit. </VAR3>
+	<ANSWER1>Vale! Selle kogusega ei õnnestu WC-potti puhtana hoida.</ANSWER1>
+	<ANSWER2>Vale! Selle kogusega ei õnnestu WC-potti puhtana hoida.</ANSWER2>
+	<ANSWER3>Õige! WC kulutab majapidamises kõige rohkem vett.</ANSWER3>
+</QUESTION>

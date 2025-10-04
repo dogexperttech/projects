@@ -1,0 +1,24 @@
+.heading {
+	font-size: 20px;
+	color: #FFFFCC;
+	text-decoration: underline;
+}
+
+
+.mainBodyred {
+
+	font-size: 16px;
+	color: #FFFFCC;
+	text-decoration: none;
+}
+.pictureblock {
+
+	display:block;
+	width: 900px;
+	border:medium;
+	float:right;
+	background-color:#FF3399;
+	color:#FFFF99;
+	text-align: center;
+}
+

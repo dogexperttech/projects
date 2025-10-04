@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Question No 1 -->
+<QUESTION>Kui pikk on joogiveetorustik Tallinna all? 
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Ligikaudu 120 kilomeetrit </VAR1>
+	<VAR2>Ligikaudu 250 kilomeetrit.  </VAR2>
+	<VAR3>Ligikaudu tuhat kilomeetrit. </VAR3>
+	<ANSWER1>Vale! Nii pikk torustik lookleb Tallinna ühe suurima korterelamupiirkonna Lasnamäe majade ja tänavate all.</ANSWER1>
+	<ANSWER2>Vale! Nii pikk on Tartu linna joogiveetorustik.</ANSWER2>
+	<ANSWER3>Õige!</ANSWER3>
+</QUESTION>
+
+<!-- Question No 2 -->
+<QUESTION>Millal alustati veetorustiku ehitamist Tallinnas?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>14. sajandil. </VAR1>
+	<VAR2>1880. aastatel. </VAR2>
+	<VAR3>1844. aastal. </VAR3>
+	<ANSWER1>Õige! Juba sel ajal saadi aru vajadusest viia joogivesi inimesteni.</ANSWER1>
+	<ANSWER2>Vale! Sellest ajast on pärit vanimad, veel tänagi linnas kasutusel olevad veetorud. </ANSWER2>
+	<ANSWER3>Vale! See oli aasta, mil iidsed puidust veetorud asendati malmtorudega.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 3 -->
+<QUESTION>Millisest materjalist ehitati esimesed veetorud?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Plastmassist. </VAR1>
+	<VAR2>Malmist. </VAR2>
+	<VAR3>Puidust. </VAR3>
+	<ANSWER1>Vale! Plastmass on levinuim torumaterjal tänapäeval.</ANSWER1>
+	<ANSWER2>Vale! Malm oli levinuim materjal mitukümmend aastat tagasi.</ANSWER2>
+	<ANSWER3>Õige! Iidsed veetorud, nagu kanalisatsioonitorudki, valmistati puidust.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 4 -->
+<QUESTION>Kui pikk on Tartu linna joogiveetorustik?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Ligikaudu 120 kilomeetrit. </VAR1>
+	<VAR2>Ligikaudu 250 kilomeetrit. </VAR2>
+	<VAR3>Ligikaudu tuhat kilomeetrit. </VAR3>
+	<ANSWER1>Vale! Nii pikk torustik lookleb Tallinna ühe suurima korterelamupiirkonna Lasnamäe majade ja tänavate all.</ANSWER1>
+	<ANSWER2>Õige!</ANSWER2>
+	<ANSWER3>Vale! Nii pikk torustik lookleb Tallinna all.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 5 -->
+<QUESTION>Millisest materjalist on valmistatud enamik viimastel aastatel toodetud veetorudest?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Plastmassist. </VAR1>
+	<VAR2>Malmist. </VAR2>
+	<VAR3>Puidust. </VAR3>
+	<ANSWER1>Õige! Plastmass on levinuim torude materjal tänapäeval.</ANSWER1>
+	<ANSWER2>Vale! Malm oli levinuim materjal mitukümmend aastat tagasi.</ANSWER2>
+	<ANSWER3>Vale! Puidust valmistati iidsed, kõige esimesena kasutusele võetud veetorud.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 6 -->
+<QUESTION>Mis on magistraaltoru?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Tänavaid ja maju ühendav toru. </VAR1>
+	<VAR2>Tänavate all jooksev toru. </VAR2>
+	<VAR3>Veepuhastusjaama ja linna ühendav kõige jämedam toru. </VAR3>
+	<ANSWER1>Vale! Neid nimetatakse majaühendusteks.</ANSWER1>
+	<ANSWER2>Vale! Neid nimetatakse tänavatorudeks.</ANSWER2>
+	<ANSWER3>Õige! See on linna veetorudest jämedaim, sest sellest saab veevõrk alguse.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 7 -->
+<QUESTION>Kuidas jõuab joogivesi linlasteni?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Isevoolselt.  </VAR1>
+	<VAR2>Isevoolselt ja pumplate abil. </VAR2>
+	<VAR3>Pumpade abil. </VAR3>
+	<ANSWER1>Vale! Öösiti, mil vett tarbitakse vähem, jõuab vesi linna tõesti isevoolselt ehk voolates torudes ilma kõrvalise abita. Sellest ei piisa päeval, mil vett tarbitakse rohkem ning seetõttu peab torudes olema suurem surve.</ANSWER1>
+	<ANSWER2>Õige! Öösiti, kui vee tarbimine on väiksem, jõuab vesi linna isevoolselt ehk voolates torudes ilma kõrvalise abita. Päeval, mil tarbimine on suurem, kasutatakse pumpade abi.</ANSWER2>
+	<ANSWER3>Vale! Päeval, mil tarbimine on suurem ning vajame rohkem ja suurema survega vett, kasutatakse tõesti pumpade abi. Kuid see ei ole ainus moodus.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 8 -->
+<QUESTION>Mis on tuletõrjehüdrant? 
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Seadeldis põhjavee puhastamiseks. </VAR1>
+	<VAR2>Seadeldis, kust tuletõrjeautod saavad tulekahju korral sobiva survega ja vajalikus koguses vett võtta. </VAR2>
+	<VAR3>Voolik, mida kasutatakse tulekahju kustutamisel. </VAR3>
+	<ANSWER1>Vale! Põhjavett puhastatakse hoopis spetsiaalsete filtrite abil.</ANSWER1>
+	<ANSWER2>Õige! Hüdrandid paiknevad üle kogu linna ning tuletõrjujatel on kaardid nende täpse asukohaga, et õnnetuse korral kiiresti kõige lähem hüdrant üles leida.</ANSWER2>
+	<ANSWER3>Vale!</ANSWER3>
+</QUESTION>
+
+<!-- Question No 9 -->
+<QUESTION>Miks on vaja veetorusid aeg-ajalt loputada ja läbi pesta?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Et joogivesi säiliks torudes kvaliteetne ka pikema aja vältel. </VAR1>
+	<VAR2>Veetorusid ei olegi vaja loputada ega pesta. </VAR2>
+	<VAR3>Et torud püsiksid kauem uued. </VAR3>
+	<ANSWER1>Õige! Torustiku siseseintele tekib aja jooksul paratamatult setet, mis on vaja eemaldada, et joogivesi torudes säiliks kvaliteetne.</ANSWER1>
+	<ANSWER2>Vale! Torustiku siseseintele tekib aja jooksul paratamatult setet, mis on vaja eemaldada, et joogivesi torudes säiliks kvaliteetne.</ANSWER2>
+	<ANSWER3>Vale! Loputus ja pesu aitavad kindlasti ka torude head seisukorda säilitada, kuid see ei ole peaeesmärk.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 10 -->
+<QUESTION>Miks on vaja avastada torustike lekked võimalikult kiiresti?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Et vett säästlikult kasutada. </VAR1>
+	<VAR2>Lekkeid ei olegi vaja avastada. </VAR2>
+	<VAR3>Et linn vee alla ei mattuks. </VAR3>
+	<ANSWER1>Õige! Vesi on loodusvara, põhjavesi lisaks aeglaselt taastuv loodusvara. Avastamata ja kõrvaldamata lekete kaudu võib asjata kaduma minna suur kogus juba puhastatud joogivett.</ANSWER1>
+	<ANSWER2>Vale! Avastamata ja kõrvaldamata lekete kaudu võib asjata kaduma minna suur kogus juba puhastatud joogivett.</ANSWER2>
+	<ANSWER3>Vale! Avastamata ja kõrvaldamata lekete kaudu võib asjata kaduma minna suur kogus juba puhastatud joogivett, kuigi enamik lekke kaudu torustikust välja voolanud veest imbub kiiresti maapinda või jookseb kanalisatsiooni. </ANSWER3>
+</QUESTION>

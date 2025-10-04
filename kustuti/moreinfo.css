@@ -1,0 +1,15 @@
+a {
+	font-weight: bold;
+	color: #333333;	
+}
+
+p {
+	font-family: sans-serif;
+	display: block; color: #333333;
+}
+
+.moreInfoTitle {
+	font-size: 12px; font-weight: bold;
+	color: #AD0000;
+line-height:6;
+}

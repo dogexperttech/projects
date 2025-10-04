@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Question No 1 -->
+<QUESTION>Kaua kestab reovee puhastamine puhastusjaamas?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Pool tundi. </VAR1>
+	<VAR2>24 tundi. </VAR2>
+	<VAR3>15 tundi. </VAR3>
+	<ANSWER1>Vale! Kui merre peaks jõudma vesi, mis on jaamas olnud vaid pool tundi, oleks merevesi ujumiseks täiesti kõlbmatu.</ANSWER1>
+	<ANSWER2>Õige! Et linnast jaama voolav reovesi nii puhtaks teha, et see on taas kõlbulik loodusesse suunamiseks, kulub terve ööpäev.</ANSWER2>
+	<ANSWER3>Vale! Nõnda kaua puhastatakse Ülemiste järvest saadud joogivett, enne kui see linnaelanikeni jõuab.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 2 -->
+<QUESTION>Kuhu viiakse reoveest eemaldatud prügi?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Lastakse merre, kus see suure veehulga sees lahustub. </VAR1>
+	<VAR2>Põletatakse ja kasutatakse hoonete kütmiseks. </VAR2>
+	<VAR3>Viiakse prügimäele. </VAR3>
+	<ANSWER1>Vale! Kui prügi merre visataks, oleks meri nii reostunud, et me ei saaks enam ujumas käia.</ANSWER1>
+	<ANSWER2>Vale! Prügi Paljassaare reoveepuhastusjaamas ei põletata. Hoonete kütmiseks kasutatakse puhastuse käigus tekkivat biogaasi.</ANSWER2>
+	<ANSWER3>Õige! Ööpäevas toodab reoveepuhastusjaam ligi kaks tonni prügi. Seda on väga palju, mistõttu on oluline visata sodi prügikasti, mitte kanalisatsiooni.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 3 -->
+<QUESTION>Kui puhas on merre juhitav puhastatud reovesi?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Sama puhas kui merevesi. </VAR1>
+	<VAR2>Nii puhas, et seda võib juua. </VAR2>
+	<VAR3>Puhtam kui merevesi. </VAR3>
+	<ANSWER1>Vale! Sel juhul ei vastaks reoveepuhastusjaamast väljuv vesi keskkonnakaitse- ja kvaliteedinõuetele.</ANSWER1>
+	<ANSWER2>Vale! See vesi on küll väga puhas, ent kuna see on desinfitseerimata, ei tohi seda juua.</ANSWER2>
+	<ANSWER3>Õige! Reoveepuhastusjaamast merre suubuv vesi on tõepoolest mereveest puhtam. Seetõttu on mitmed suplusrannad Tallinna lahes taas ujumiseks avatud.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 4 -->
+<QUESTION>Mis on vee keemiline puhastus?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Reovee puhastamine võrede ja filtrite abil. </VAR1>
+	<VAR2>Reovee puhastamine aktiivmuda ehk heade bakterite abil. </VAR2>
+	<VAR3>Puhastusviis, mille puhul vette lisatakse kemikaali, mis aitab reostusel koonduda ja basseini põhja settida. </VAR3>
+	<ANSWER1>Vale! See on mehaaniline puhastus.</ANSWER1>
+	<ANSWER2>Vale! See on bioloogiline puhastus.</ANSWER2>
+	<ANSWER3>Õige! Selle töö teeb ära keerulise nimega kemikaal ehk koagulant.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 5 -->
+<QUESTION>Mis on vee bioloogiline puhastus?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Reovee puhastamine võrede ja filtrite abil. </VAR1>
+	<VAR2>Reovee puhastamine aktiivmuda ehk heade bakterite abil. </VAR2>
+	<VAR3>Vette lisatakse kemikaali, mis aitab reostusel koonduda ja basseini põhja settida. </VAR3>
+	<ANSWER1>Vale! See on mehaaniline puhastus.</ANSWER1>
+	<ANSWER2>Õige! See pika puhastuskäigu viimane etapp. Head bakterid “söövad” halvad, vett reostavad bakterid ära ning seejärel on vesi valmis merre juhtimiseks.</ANSWER2>
+	<ANSWER3>Vale! See on keemiline puhastus.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 6 -->
+<QUESTION>Mis vahe on vee keemilisel ja bioloogilisel puhastusel?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Need tähendavad ühte ja sama. </VAR1>
+	<VAR2>Keemilise puhastuse kõigus eraldatakse veest praht, bioloogilises puhastuses settivad veest välja orgaanilised ained. </VAR2>
+	<VAR3>Keemilise puhastuse käigus settivad veest kemikaali mõjul välja orgaanilised ained, bioloogilise puhastuse käigus “söövad” head bakterid ära vees leiduvad halvad bakterid ehk reostuse selle osa, mida ei ole võimalik kätte saada ei võrede abil ega kemikaali lisamisega. </VAR3>
+	<ANSWER1>Vale! Need on siiski kaks erinevat puhastusviisi.</ANSWER1>
+	<ANSWER2>Vale! Sa kirjeldasid mehaanilist ja keemilist puhastust.</ANSWER2>
+	<ANSWER3>Õige!</ANSWER3>
+</QUESTION>
+
+<!-- Question No 7 -->
+<QUESTION>Kas reovee puhastuse tulemusel saadud kasvumulda tohib kasutada aedviljade, näiteks porgandi kasvatamisel?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Tohib küll. </VAR1>
+	<VAR2>Võib kasutada väga väikestes kogustes. </VAR2>
+	<VAR3>Ei tohi. </VAR3>
+	<ANSWER1>Vale! Söödavate põllusaaduste tomat, kurk, porgand jt kasvualale segu ei sobi selles leiduda võivate haigusttekitavate bakterite tõttu.</ANSWER1>
+	<ANSWER2>Vale! Söödavate põllusaaduste tomat, kurk, porgand jt kasvualale segu ei sobi selles leiduda võivate haigusttekitavate bakterite tõttu.</ANSWER2>
+	<ANSWER3>Õige! Söödavate põllusaaduste tomat, kurk, porgand jt kasvualale segu ei sobi selles leiduda võivate haigusttekitavate bakterite tõttu.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 8 -->
+<QUESTION>Mida tehakse kasvumulla valmistamisel tekkiva biogaasiga?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Kasutatakse jaama hoonete kütmiseks. </VAR1>
+	<VAR2>Lastakse õhku. </VAR2>
+	<VAR3>Kasutatakse kasvumulla valmistamisel. </VAR3>
+	<ANSWER1>Õige! Vabanev biogaas kulub marjaks ära jaama enda hoonetes.</ANSWER1>
+	<ANSWER2>Vale! Selline teguviis saastaks keskkonda.</ANSWER2>
+	<ANSWER3>Vale! Gaasi kasutamisel on siiski teine otstarve.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 9 -->
+<QUESTION>Mis aastal valmis Tallinnas Paljassaare reoveepuhastusjaam?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>1880. aastal. </VAR1>
+	<VAR2>1980. aastal. </VAR2>
+	<VAR3>2000. aastal. </VAR3>
+	<ANSWER1>Vale! Sel ajal veel linna reovett ei puhastatud.</ANSWER1>
+	<ANSWER2>Õige!</ANSWER2>
+	<ANSWER3>Vale! Selleks ajaks oli jaam juba mõnda aega tegutsenud.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 10 -->
+<QUESTION>Kuidas puhastati Tallinnas vett enne Paljassaare reoveepuhastusjaama valmimist?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Spetsiaalsetes puhastuskaevudes. </VAR1>
+	<VAR2>Ei puhastatudki. </VAR2>
+	<VAR3>Kopli reoveepuhastusjaamas. </VAR3>
+	<ANSWER1>Vale! Selliseid seadmed puuduvad.</ANSWER1>
+	<ANSWER2>Õige! Linna reoveed juhiti ilma puhastamata otse merre.</ANSWER2>
+	<ANSWER3>Vale! Sellist asutust ei ole olemas. Paljassaares asub linna esimene ja ainus reoveepuhastusjaam.</ANSWER3>
+</QUESTION>

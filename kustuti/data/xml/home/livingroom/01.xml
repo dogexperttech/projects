@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="kyynal_bg.swf" swf="kyynal.swf" important="important_candle.xml">
+	<text>Lõpuni põlenud küünal lahvatas suure leegiga põlema</text>
+
+	<answer correct="no" swf="kyynal_vesi.swf">
+		<text>Kustutan leegi tassitäie veega</text>
+		<comment>
+			<p><b>Põlevat küünalt ei tohi kunagi jätta järelvalveta! </b>Vee viskamisel sulanud parafiinile tekib sarnane efekt nagu vee viskamisel keevale õlile. Põleva parafiini tilgad hüppavad vee aurustudes särinal küünlaaluselt välja ja võivad süüdata läheduses olevaid esemeid.</p>
+		</comment>
+	</answer>
+	
+	<answer correct="no" swf="kyynal_eemale.swf">
+		<text>Haaran süttinud küünlaaluse ja viin selle eemale kergesti süttivatest esemetest</text>
+		<comment>
+			<p><b>Jälgi, et põlev parafiin ei süütaks omakorda veel midagi. </b>Süttinud küünlajalga või teeküünalt ohutumasse kohta viies võib põlev parafiin kergesti üle ääre läigatada või ootamatult sinu poole küünituvast leegist ehmudes võid küünla maha pillata. Teeküünalt ümbritsev metalltorbik läheb küünla põledes kuumaks ning seda käes hoida on praktiliselt võimatu.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="kyynal_kustuti.swf">
+		<text>Kasutan tulekustutit</text>
+		<comment>
+			<p>Kustuti on tõhusaim vahend väikese põlengu summutamiseks. Tuleb siiski arvestada, et liiga lähedalt põlevasse parafiini suunatud pulbrijuga võib parafiini aluselt välja paisata ja süüdata näiteks laual olevad paberid või kardinad.</p>
+		</comment>
+	</answer>
+
+	<answer correct="yes" swf="kyynal_kustutustekk.swf">
+		<text>Kustutan küünla seda liigutamata tulekustutusvaiba või suurema käterätiga</text>
+		<comment>
+			<p>Kui hakata sulanud ning põlevat parafiini liigutama, võib juhtuda, et süütad lisaks veel midagi. Juhul kui leegi lähedal on näiteks kardinad, krepp-paber või mõni muu tuleohtlik materjal, tuleb need enne tulekustutusvaiba järele jooksmist ohutusse kaugusesse nihutada. Kui tulekustutusvaipa kodus ei ole, võib leegi summutamiseks kasutada paksu kangast - tekki, vaipa või suurt käterätti. Oluline on, et tuli oleks igalt poolt tihedalt kaetud ning et ähmiga ei tõmmataks põlevat eset näiteks laualt põrandale. </p>
+		</comment>
+	</answer>
+</question>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- Question No 1 -->
+<QUESTION> Mis on zooplanktoni (loomse hõljumi) ülesanne Ülemiste järves?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Zooplankton puhastab Ülemiste järve põhjamudast. </VAR1>
+	<VAR2>Zooplankton on toit väikestele kaladele. </VAR2>
+	<VAR3>Zooplanktonit söövad Ülemiste järves elavad röövkalad. </VAR3>
+	<ANSWER1>Vale! Mudast järve põhja puhastavad teod ja põhjas elavad kalad.</ANSWER1>
+	<ANSWER2>Õige! Zooplankton ise toitub fütoplanktonist ning hoiab seeläbi ära vetikate vohamise.</ANSWER2>
+	<ANSWER3>Vale! Röövkalad toituvad väiksematest kaladest e lepiskaladest. Nemad zooplanktonit ei söö.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 2 -->
+<QUESTION>Kas Ülemiste järvest püütakse kala?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Ei, sest Ülemiste järves pole kalu.  </VAR1>
+	<VAR2>Jah, kuid Ülemiste järvest tohivad kala püüda vaid lubadega harrastuskalamehed.</VAR2>
+	<VAR3>Jah, Ülemiste järvest püütakse kala nende arvukuse piiramiseks ja kalastada tohivad ainult eriväljaõppe saanud kalamehed.</VAR3>
+	<ANSWER1>Vale! Ülemise järves on 15 erinevat kalaliiki: latikas, kiisk, ahven, särg, viidikas, koha, haug, angerjas, rääbis, linask, koger, teib, vimb, roosärg, luts.</ANSWER1>
+	<ANSWER2>Vale! Ülemiste järves on harrastuskalastamine keelatud.</ANSWER2>
+	<ANSWER3>Õige! Aeg-ajalt püüavad eriväljaõppe saanud kalamehed veest välja väikseid kalu. Nii aidatakse järvel hoida looduslikku tasakaalu.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 3 -->
+<QUESTION>Kust saab Ülemiste järv enamiku oma veest? 
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Maa-alustest allikatest. </VAR1>
+	<VAR2>Ülemiste järve suubuvatest kanalitest ja ojadest. </VAR2>
+	<VAR3>Vihmaveest.</VAR3>
+	<ANSWER1>Vale! Ülemiste järve ei suubu maa-aluseid allikaid.</ANSWER1>
+	<ANSWER2>Õige! Ülemiste järve toidavad veega kõige enam Pirita-Ülemiste kanal ja Kurna oja.</ANSWER2>
+	<ANSWER3>Vale! Sellisel juhul ei oleks Ülemiste järves piisavalt vett.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 4 -->
+<QUESTION>Kui palju vett on Ülemiste järves?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>17 miljonit kuupmeetrit</VAR1>
+	<VAR2>1 miljon kuupmeetrit </VAR2>
+	<VAR3>100 miljonit kuupmeetrit</VAR3>
+	<ANSWER1>Õige! Nii palju kasutavad tallinlased vett ühe aastaga.</ANSWER1>
+	<ANSWER2>Vale! Sellest ei piisa tallinlastele joogiveeks isegi üheks kuuks.</ANSWER2>
+	<ANSWER3>Vale! Sellisel juhul oleks Ülemiste järv pea kuus korda suurem.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 5 -->
+<QUESTION>Millal saab Tallinn valmis?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>2010. aastal. </VAR1>
+	<VAR2>2080. aastal. </VAR2>
+	<VAR3>Tallinn ei saagi kunagi valmis. </VAR3>
+	<ANSWER1>Vale! Sel juhul ujutab Ülemiste vanake legendi järgi Tallinna üle.</ANSWER1>
+	<ANSWER2>Vale! Sel juhul ujutab Ülemiste vanake legendi järgi Tallinna üle.</ANSWER2>
+	<ANSWER3>Õige! Tallinn ei tohi kunagi valmis saada, sest siis ei saa Ülemiste vanake Tallinna linna üle ujutada.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 6 -->
+<QUESTION>Kuidas tekkis Ülemiste järv?
+	<RIGHTNR>1</RIGHTNR>
+	<VAR1>Ülemiste järv tekkis taganeva mandrijää poolt tekitatud orgu. </VAR1>
+	<VAR2>Ülemiste järv on inimtegevuse tulemusena tekkinud veekogu. </VAR2>
+	<VAR3>Ülemiste järv tekkis meteoriidikraatrist </VAR3>
+	<ANSWER1>Õige! Ülemiste järv nagu enamik Eesti järvedest tekkis liustiku alt vabanenud nõgudesse ja orgudesse.</ANSWER1>
+	<ANSWER2>Vale! Eestis on mitmeid kunstlikult rajatud veekogusid, kuid mitte Ülemiste järv.</ANSWER2>
+	<ANSWER3>Vale! Ainuke meteoriidiplahvatuse tulemusel tekkinud järv Eestis on Kaali järv Saaremaal.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 7 -->
+<QUESTION>Mida söövad röövkalad?
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Röövkalad toituvad taimsest hõljumist ehk fütoplanktonist. </VAR1>
+	<VAR2>Röövkalad toituvad väikestest kaladest ja konnadest. </VAR2>
+	<VAR3>Röövkalad toituvad väikestest loomsetest organismidest ehk zooplanktonist. </VAR3>
+	<ANSWER1>Vale! Fütoplanktonist toitub zooplankton.</ANSWER1>
+	<ANSWER2>Õige! Väikesed kalad, konnad ning isegi linnud on röövkalade toit.</ANSWER2>
+	<ANSWER3>Vale! Zooplanktonist toituvad lepiskalad.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 8 -->
+<QUESTION>Milles seisneb Ülemiste järve tähtsus tallinlastele? 
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Ülemiste järv on tallinlastele oluline kalastuskoht. </VAR1>
+	<VAR2>Ülemiste järv annab vett ligi 90%-le pealinna elanikest</VAR2>
+	<VAR3>Ülemiste järv on kodu paljudele veeloomadele. </VAR3>
+	<ANSWER1>Vale! Aeg-ajalt püütakse järveveest välja väikeseid kalu. Nii aidatakse järvel hoida looduslikku tasakaalu. Kuid kalastada tohivad ainult eriväljaõppe saanud püüdjad.</ANSWER1>
+	<ANSWER2>Õige! Ülemiste järve kõige olulisem ülesanne on varustada Tallinna veega.</ANSWER2>
+	<ANSWER3>Vale! Ülemiste järves elutseb küll suur hulk kalaliike ja muid elusorganisme, kuid tallinlastele seisneb järve tähtsus muus.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 9 -->
+<QUESTION>Mitmes järv Eestis on Ülemiste oma suuruselt? 
+	<RIGHTNR>2</RIGHTNR>
+	<VAR1>Ülemiste on Eesti suurim järv. </VAR1>
+	<VAR2>Ülemiste on suuruselt neljas järv Eestis. </VAR2>
+	<VAR3>Ülemiste on suuruselt teine järv Eestis. </VAR3>
+	<ANSWER1>Vale! Eesti suurim järv on Peipsi</ANSWER1>
+	<ANSWER2>Õige! Selle pindala küündib 980 hektarini.</ANSWER2>
+	<ANSWER3>Vale! Suuruselt teine on Võrtsjärv.</ANSWER3>
+</QUESTION>
+
+<!-- Question No 10 -->
+<QUESTION>Mis põhjustab Ülemiste järve vee hägususe?
+	<RIGHTNR>3</RIGHTNR>
+	<VAR1>Järve põhjas olev muda. </VAR1>
+	<VAR2>Järve sattunud prügi.</VAR2>
+	<VAR3>Taimse hõljumi vohamine. </VAR3>
+	<ANSWER1>Vale! Ülemiste põhi on suures osas kaetud küll mudaga, kuid see ei ole järve hägususe põhjustaja.</ANSWER1>
+	<ANSWER2>Vale! Järves võib leiduda mõningal määral prügi, kuid see ei põhjusta hägusust.</ANSWER2>
+	<ANSWER3>Õige! Loomse hõljumi arvukuse langemine toob kaasa fütoplanktoni vohamise, mis omakorda põhjustab vee liigset hägusust.</ANSWER3>
+</QUESTION>

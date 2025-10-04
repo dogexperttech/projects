@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="kogunemine_bg.swf" swf="kogunemine.swf" important="important.xml">
+	<text>Liikumine kogunemiskohta</text>
+	
+	<answer correct="no" swf="kogunemine_koju.swf">
+		<text>Koolimajast välja jõudes otsin omaette koha, kus ma kedagi ei sega</text>
+		<comment>
+		<p><b>Klassikaaslastest ja õpetajast lahku minna ei tohi!</b> Kui õpetaja ei tea sinu asukohta, arvatakse, et jäid koolimajja ning sind hakatakse põlevast majast otsima. Kogunemiskohaks on tavaliselt kooli ligidal olev parkla või staadion, külmal ajal võimla. Ka kogunemiskohas püsi oma klassi õpilastega koos.</p>
+		</comment>
+	</answer>
+	
+	<answer correct="no" swf="kogunemine_koju.swf">
+		<text>Koolimajast välja jõudes lähen kohe koju</text>
+		<comment>
+		<p><b>Klassikaaslastest ja õpetajast lahku minna ei tohi!</b> Isegi siis kui su kodu on lähedal, on vajalik kogunemiskohas püsimine. Kui õpetaja ei tea sinu asukohta, hakatakse sind põlevast majast otsima.</p>
+		</comment>
+	</answer>
+	
+	<answer correct="yes" swf="kogunemine_koos.swf">
+		<text>Koolimajast välja jõudes lähen koos õpetajaga kogunemiskohta</text>
+		<comment>
+		<p>Tuletõrjujate jaoks on kõige tähtsam teada, kas kõik lapsed on põlevast majast ohutult välja saanud. Selleks ei tohi laiali minna ja õpetaja loeb õpilased uuesti üle. Õpilaste paigal püsimine on vajalik ka selleks, et nad päästetöid ei segaks. Tuletõrjujatel on keeruline autode ja voolikutega liikuda, kui nad peavad kogu aeg jälgima, et mõni laps auto alla ei jääks. Kui väljusid koolimajast üksi, tuleb minna kogunemiskohta, milleks on tavaliselt kooli lähedal olev parkla või staadion. Seal otsi üles oma klass ja anna õpetajale märku oma kohale jõudmisest.</p>
+		</comment>
+	</answer>
+</question>

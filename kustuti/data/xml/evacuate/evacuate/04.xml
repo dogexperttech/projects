@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question bg="evakvahetunnis_bg.swf"swf="suits.swf" important="important.xml">
+	<text>Liikumine suitsuses koridoris</text>
+	
+	<answer correct="no" swf="suits_keskel.swf">
+		<text>Liigun koridori keskel, kus on rohkem ruumi</text>
+		<comment>
+		<p><b>Suitsuses koridoris liikudes olgu sein käeulatuses!</b> Suitsu tihenemisel ei näe enam ümbrust ja nii võib ära eksida ka oma koolimajas. Eksimine sellises olukorras on väga ohtlik, sest <b> tiheda suitsu sissehingamine on eluohtlik!</b> Kui sein on käeulatuses, ei kaota te suitsu ootamatul tihenemisel liikumissuunda, vaid saate edasi liikuda käsikaudu piki seina.</p></comment>
+	</answer>
+	
+	<answer correct="yes" swf="suits_sein.swf">
+		<text>Liigun kummargil, hoian kinni paarilisest ja hoidun seina ligi</text>
+		<comment>
+		<p>Suits on üleval pool alati tihedam kui all. Kummargil liikudes on <br><b>1. </b> parem nähtavus</br><br><b>2. </b>väiksem võimalus suitsu sisse hingata.<b> Tiheda suitsu sissehingamine on eluohtlik!</b></br> Kui sein on käeulatuses, ei kaota te suitsu ootamatul tihenemisel liikumissuunda, vaid saate edasi liikuda käsikaudu piki seina. Kaaslasest kinni hoides on tõenäolisem, et keegi ei jää üksi ohtlikku majja. Tuleohu olukorras ei tohi ennast kuskile peita.</p>
+		</comment>
+	</answer>
+	
+	<answer correct="no" swf="suits_hyyan.swf">
+		<text>Suitsu tihenedes hüüan klassikaaslasi, et nad kaduma ei läheks ja lähen samas suunas edasi</text>
+		<comment>
+		<p><b>Mitte kunagi ei tohi liikuda suunas, kus on rohkem suitsu!</b></p><p> Klassikaaslastele hõigates <b> 1.</b> ahmite sisse rohkem suitsust õhku. <b>Tiheda suitsu sissehingamine on eluohtlik!</b><b> 2.</b> kaotate aega. Kui väljumisteel on juba suitsu, tuleb alati arvestada võimalusega, et see võib ootamatult tiheneda (näiteks ust avades). Sel juhul tuleb kas tuldud teed tagasi pöörduda või otsida varjumiseks sobiv ruum (kus saab ukse õhukindlalt sulgeda ja akna avada).</p>
+		</comment>
+	</answer>
+	
+	<answer correct="yes" swf="suits_tagasi.swf">
+		<text>Suits tihenedes pöördun tagasi</text>
+		<comment>
+		<p><b>Mitte kunagi ei tohi liikuda suunas, kus on rohkem suitsu.</b> Kui väljumisteel on juba suitsu, tuleb alati arvestada võimalusega, et see võib ootamatult tiheneda (näiteks ust avades). Sel juhul tuleb kas tuldud teed tagasi pöörduda või otsida varjumiseks sobiv ruum (kus saab ukse õhukindlalt sulgeda ja akna avada). Tuleohu olukorras ei tohi ennast peita, vaid püüda alati oma asukohast märku anda.</p>
+		</comment>
+	</answer>
+</question>

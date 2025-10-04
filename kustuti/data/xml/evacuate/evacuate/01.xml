@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<question swf="h2iretunnis.swf" important="important.xml">
+	<text>Häire tunni ajal</text>
+
+	<answer correct="no" swf="h2iretunnis_aken.swf">
+		<text>Lähen akna juurde ja olen valmis välja ronima</text>
+		<comment>
+			<p><b>Otsese tuleohu puudumisel on aknast välja ronimise asemel turvalisem jääda klassi, avada aken ja anda endast tuletõrjujatele märku.</b></p><p>Isegi esimeselt korruselt alla hüpates võib ennast kergesti vigastada. Kiirustades on vigastuse oht veelgi suurem. Akna kaudu väljumine jäägu juhuks, kui koridorid on suitsu tõttu läbimatud ning aken asub piisavalt madalal ohutuks väljumiseks. Otsuse, kas akna kaudu väljuda või mitte, teeb siin õpetaja. </p>
+		</comment>
+	</answer>
+	
+	<answer correct="yes" swf="h2iretunnis_istun.swf">
+		<text>Jään oma kohale istuma, kuulan õpetaja juhtnööre</text>
+		<comment>
+			<p><b>Koolis vastutavad evakuatsiooni eest õpetajad.</b></p><p>Õpetaja selgitab olukorra tõsiduse ja jagab korraldused vastavalt sellele. Pane õpikud kotti ja ole vajadusel valmis lahkuma. Enne klassist väljumist peab õpetaja täpselt teadma, millised õpilased on klassis. Kui tunni alguses pole klassipäeviku järgi kontrollitud õpilaste kohalolekut, tuleb seda kiiresti teha. Klassis ringi sebides ja käratsedes viidad aega, mis võib osutuda hädavajalikuks koolimajast väljumisel.</p>
+		</comment>
+	</answer>
+	
+	<answer correct="no" swf="h2iretunnis_ignoreerin.swf">
+		<text>Ei pööra juhtunule tähelepanu, tõenäoliselt on see õppehäire</text>
+		<comment>
+		<p><b>Kõigi häirete puhul tuleb olla tähelepanelik.</b></p><p>Kui on tegemist tõelise hädaohuga, võib tulekahju areng olla väga kiire ja viivitusel on rasked tagajärjed. Õppehäireid on tõesti sagedamini kui päris tulekahjusid, kuid vaatamata sellele tuleb iga häire puhul olla valmis lahkumiseks.</p>
+		</comment>
+	</answer>			
+</question>
